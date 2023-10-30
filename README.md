@@ -18,6 +18,6 @@ You can deploy this contract on Remix IDE or any Ethereum-compatible development
 - Go to DEPLOY AND RUN TRANSACTIONS tab on the sidebar and click on Deploy
 - Start interacting
 - Happy Tokenizing!
-- 
+
 ## License: 
 MIT License
